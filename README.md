@@ -40,3 +40,5 @@ response with auth:
 ```
 
 - this header works for some other sites like this (; enjoy!
+
+# if the owner of this site,  wants a **DCMA TAKEDOWN** request, contact me
