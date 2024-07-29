@@ -38,3 +38,5 @@ response with auth:
 }
 
 ```
+
+- this header works for some other sites like this (; enjoy!
