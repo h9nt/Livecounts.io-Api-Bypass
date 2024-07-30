@@ -40,5 +40,6 @@ response with auth:
 ```
 
 - this header works for some other sites like this (; enjoy!
+- Of course, a big thank you goes to livecounts.io for this great site/api service!
 
 # if the owner of this site,  wants a **DCMA TAKEDOWN** request, contact me
